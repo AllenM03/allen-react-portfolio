@@ -17,9 +17,9 @@ export default function About() {
           </div>
           <div className="col-12 col-md-6 align-self-center p-3">
             <p className="fs-3">
-              An accomplished and fluent communicator with strong investigation,
+              An accomplished and great communicator with strong
               problem-solving and decision-making skills enhanced by previous
-              application support and development roles. Excited to transition
+              Graphic design positions and leadership roles. Excited to transition
               into a new career as a full-stack web developer.
             </p>
           </div>
