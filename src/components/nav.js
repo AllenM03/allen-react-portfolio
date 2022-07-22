@@ -1,5 +1,6 @@
 import React from "react";
 
+///////////////////add comments////////////////////////////////////////////////////////////////
 
 export default function Nav({ currentPage, handlePageChange }) {
     return (
