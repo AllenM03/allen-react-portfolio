@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.894e3516.css",
+    "main.js": "/static/js/main.ab36db29.js",
+    "static/media/6-fanfood-app.png": "/static/media/6-fanfood-app.f4fb5cca967c1a911d93.png",
+    "static/media/AllenProfileImg.jpg": "/static/media/AllenProfileImg.495101295ff541b47e45.jpg",
+    "static/media/Allen--resume.pdf": "/static/media/Allen--resume.011f23b964224473433d.pdf",
+    "static/media/1-Weather-APP.jpg": "/static/media/1-Weather-APP.b0ffa55d52872b003f1e.jpg",
+    "static/media/5-Budget-Track-u-later.png": "/static/media/5-Budget-Track-u-later.32330990baf594c9edbf.png",
+    "static/media/2-officeTaskPlanner.png": "/static/media/2-officeTaskPlanner.543b1b879eeae5d71af6.png",
+    "static/media/4-start-page.jpg": "/static/media/4-start-page.e9eab8f0f9b86a39def1.jpg",
+    "static/media/3-notemaker1000.png": "/static/media/3-notemaker1000.62bf756ad2962c86e39e.png",
+    "index.html": "/index.html",
+    "main.894e3516.css.map": "/static/css/main.894e3516.css.map",
+    "main.ab36db29.js.map": "/static/js/main.ab36db29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.894e3516.css",
+    "static/js/main.ab36db29.js"
+  ]
+}
