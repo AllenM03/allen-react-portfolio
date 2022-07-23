@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Mada:wght@300&display=swap');
+
+body, html {
+    font-family: 'Mada', sans-serif;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+}
+
+/* change the opacity when hovering a card */
+.card:hover{
+    opacity: 1;
+}
+
+.card{
+    opacity: 0.6;
+}
