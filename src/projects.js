@@ -82,7 +82,7 @@ const projects = [
         description: `Fan Food allows users to discover restaurants and bars close to the 
         venues of live events using the TicketMaster and Foursquare APIs. This application 
         searches for live events such as concerts and sporting events along with restaurants
-        and bars within 1000 yard radius of the live event.
+        and bars within a 1000 yard radius of the live event.
         
         A few different technologies were used in creating this application such 
         as,HTML5, CSS3, Bulma, Javascript, JQuery, JSON, and Fetch API.`,
