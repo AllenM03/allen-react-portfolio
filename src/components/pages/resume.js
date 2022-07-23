@@ -28,6 +28,8 @@ export default function Resume() {
           <li className="list-group-item list-group-item-dark"></li>
           <li className="list-group-item list-group-item-dark">React</li>
           <li className="list-group-item list-group-item-dark">Bootstrap</li>
+          <li className="list-group-item list-group-item-dark">Bulma</li>
+          <li className="list-group-item list-group-item-dark">Tailwind</li>
         </ul>
       </div>
       <h4 className="m-3 text-center">
