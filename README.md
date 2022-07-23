@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Allen McBroom Bey- Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://allenm03.github.io/allen-react-portfolio/).
 
 ## Available Scripts
 
