@@ -8,7 +8,7 @@ import img5 from "./img/5-Budget-Track-u-later.png";
 import img6 from "./img/6-fanfood-app.png";
 
 
-const Projects = [
+const projects = [
     {
         id: 1,
         name: "Daily Weather Forecast Dashboard",
@@ -26,7 +26,7 @@ const Projects = [
         
         A few different technologies were used in creating this application such 
         as, HTML, CSS, and JavaScript powered by third-party API's such as 
-        Moment.js, Bootstrap, OpenWeather's GeoCoding and Ond Cal API's.`
+        Moment.js, Bootstrap, OpenWeather's GeoCoding and Ond Cal API's.`,
         imgSrc: img1,
     },
     {
@@ -36,7 +36,7 @@ const Projects = [
         site: "https://allenm03.github.io/office-task-planner/",
         description: `Office Task Planner is a webpage that lists every hour of the day (12am-11:59pm) 
         as a new row. Inside of each row, you can write down some task that you wish to accomplish 
-        within that given hour.`
+        within that given hour.`,
         imgSrc: img2,
     },
     {
@@ -47,7 +47,7 @@ const Projects = [
         description: `Note generator 1000 is a web application that can be used to write and save notes. 
         This uses an Express.js back end and will save and retrieve data from a JSON file.
         In this application, the user can create new notes, view the currently saved notes, and delete stored notes.
-        This application will use an Express.js back end and will save and retrieve note data from a JSON file.`
+        This application will use an Express.js back end and will save and retrieve note data from a JSON file.`,
         imgSrc: img3,
     },
     {
@@ -62,7 +62,7 @@ const Projects = [
         selected, the program will deduct 10 seconds from the current time. Then after the timer reaches zero or after all 
         questions are answered, the user can add their initials and to a final score page. Finally, the program will go back 
         to the home page and can attempt many more times!
-        This application uses javaScript, CSS, HTML5`
+        This application uses javaScript, CSS, HTML5.`,
         imgSrc: img4,
     },
     {
@@ -71,7 +71,7 @@ const Projects = [
         github: "https://github.com/AllenM03/Budget-Track-u-Later-PWA",
         site: "https://sunny-blossom-1442.herokuapp.com/",
         description: `A simple web application using a service worker, db to cache files, (PWA), 
-        that tracks budget using addition and subtraction and a name for transactions.`
+        that tracks budget using addition and subtraction and a name for transactions.`,
         imgSrc: img5,
     },
     {
@@ -85,7 +85,7 @@ const Projects = [
         and bars within 1000 yard radius of the live event.
         
         A few different technologies were used in creating this application such 
-        as,HTML5, CSS3, Bulma, Javascript, JQuery, JSON, and Fetch API.`
+        as,HTML5, CSS3, Bulma, Javascript, JQuery, JSON, and Fetch API.`,
         imgSrc: img6,
     },
 ];
