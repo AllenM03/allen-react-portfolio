@@ -1,7 +1,7 @@
 // use useState to keep track which page is selected by the user
 import React, { useState } from "react";
 // load all the components
-import Nav from "./Nav";
+import Nav from "./Nav.js";
 import Footer from "./Footer";
 import About from "./pages/About";
 import Contact from "./pages/Contact";

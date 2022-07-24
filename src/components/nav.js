@@ -1,6 +1,4 @@
-import React from "react";
-
-///////////////////add comments////////////////////////////////////////////////////////////////
+import React from "react"
 
 export default function Nav({ currentPage, handlePageChange }) {
     return (
