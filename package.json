@@ -1,6 +1,7 @@
 {
   "name": "allen-react-portfolio",
   "version": "0.1.0",
+  "homepage": "https://allenm03.github.io/allen-react-portfolio/",
   "engines": {
     "node": "16.x"
   },
@@ -23,6 +24,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

@@ -2,11 +2,12 @@
 // import the images that will be used in the portfolio component
 import img1 from "./img/1-Weather-APP.jpg";
 import img2 from "./img/2-officeTaskPlanner.png";
-import img3 from "./img/3-notemaker1000.png";
+import img3 from "./img/KillerKombo";
 import img4 from "./img/4-start-page.jpg";
 import img5 from "./img/5-Budget-Track-u-later.png";
 import img6 from "./img/6-fanfood-app.png";
-
+import img7 from "./img/3-notemaker1000.png";
+import img8 from "./img/Greenhive-app.png";
 
 const projects = [
     {
@@ -41,13 +42,22 @@ const projects = [
     },
     {
         id: 3,
-        name: "Note Maker 1000",
-        github: "https://github.com/AllenM03/NoteMaker1000",
-        site: "https://notemaker1000.herokuapp.com/",
-        description: `Note generator 1000 is a web application that can be used to write and save notes. 
-        This uses an Express.js back end and will save and retrieve data from a JSON file.
-        In this application, the user can create new notes, view the currently saved notes, and delete stored notes.
-        This application will use an Express.js back end and will save and retrieve note data from a JSON file.`,
+        name: "KillerKombo Video Game Finder",
+        github: "https://github.com/RenBryant/killerkombo",
+        site: "https://killer-kombo.herokuapp.com/",
+        description: `This app allows users to search for games they like and also new games on all 
+         available platforms.
+         
+        Front-end, React, JSX, Tailwind CSS, and apollo client.
+        
+        Back-end, Mongoose, JWT, bcrypt, apollo-server-express, axios, dotenv, express, and graphql.
+         
+        Npm concurrently package used so the front-end and the back-end to be run at the same time.
+        
+        RAWG api:
+        Api from rawg.io to get data for over 700,000 games.
+            
+         `,
         imgSrc: img3,
     },
     {
@@ -79,7 +89,7 @@ const projects = [
         name: "Fan Food, the ultimate fan experience",
         github: "https://github.com/masontmorris/fanfood",
         site: "https://masontmorris.github.io/fanfood/",
-        description: `Fan Food allows users to discover restaurants and bars close to the 
+        description: `Fan Food allows users to discover bars close to the 
         venues of live events using the TicketMaster and Foursquare APIs. This application 
         searches for live events such as concerts and sporting events along with restaurants
         and bars within a 1000 yard radius of the live event.
@@ -87,6 +97,31 @@ const projects = [
         A few different technologies were used in creating this application such 
         as,HTML5, CSS3, Bulma, Javascript, JQuery, JSON, and Fetch API.`,
         imgSrc: img6,
+    },
+    {
+        id: 7,
+        name: "Note Maker 1000",
+        github: "https://github.com/AllenM03/NoteMaker1000",
+        site: "https://notemaker1000.herokuapp.com/",
+        description: `Note generator 1000 is a web application that can be used to write and save notes. 
+        This uses an Express.js back end and will save and retrieve data from a JSON file.
+        In this application, the user can create new notes, view the currently saved notes, and delete stored notes.
+        This application will use an Express.js back end and will save and retrieve note data from a JSON file.`,
+        imgSrc: img7,
+    },
+    {
+        id: 8,
+        name: "Greenhive, ",
+        github: "https://github.com/william-horn/greenhive",
+        site: "https://greenhive-com.herokuapp.com/",
+        description: `This is a Conservation app where people can join communities related to different resources. 
+        All users can post or comment about nature conservation and environment protection. On the home page the user 
+        can sign up or log in and create a profile page to be a part of the Greenhive website. In this website you can 
+        choose which areas of concerns related like Air pollution, Ocean, Wildlife and Forest to join, comment, and post.
+        
+        HTML, CSS3, Bulma, Javascript, JQuery, JSON, Fetch API, Node.js, Express.js, MySQL/ Sequelize, Handlebars, 
+        Express Session, Bcrypt, npm axios.`,
+        imgSrc: img8,
     },
 ];
 
