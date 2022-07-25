@@ -46,8 +46,9 @@ const projects = [
         github: "https://github.com/RenBryant/killerkombo",
         site: "https://killer-kombo.herokuapp.com/",
         description: `This app allows users to search for games they like and also new games on all 
-         available platforms.
-         
+         available platforms. Contributions from classmates helped make this application a successful team 
+         building project.
+        
         Front-end, React, JSX, Tailwind CSS, and apollo client.
         
         Back-end, Mongoose, JWT, bcrypt, apollo-server-express, axios, dotenv, express, and graphql.
@@ -111,7 +112,7 @@ const projects = [
     },
     {
         id: 8,
-        name: "Greenhive, ",
+        name: "Greenhive conservation app",
         github: "https://github.com/william-horn/greenhive",
         site: "https://greenhive-com.herokuapp.com/",
         description: `This is a Conservation app where people can join communities related to different resources. 
