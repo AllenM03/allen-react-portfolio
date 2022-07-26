@@ -2,7 +2,7 @@
 // import the images that will be used in the portfolio component
 import img1 from "./img/1-Weather-APP.jpg";
 import img2 from "./img/2-officeTaskPlanner.png";
-import img3 from "./img/KillerKombo";
+import img3 from "./img/KillerKombo.jpg";
 import img4 from "./img/4-start-page.jpg";
 import img5 from "./img/5-Budget-Track-u-later.png";
 import img6 from "./img/6-fanfood-app.png";
