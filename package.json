@@ -1,7 +1,7 @@
 {
   "name": "allen-react-portfolio",
   "version": "0.1.0",
-  "homepage": "https://allenm03.github.io/allen-react-portfolio/",
+  "homepage": "http://allenm03.github.io/allen-react-portfolio/",
   "engines": {
     "node": "16.x"
   },

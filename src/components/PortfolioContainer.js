@@ -1,15 +1,15 @@
 // use useState to keep track which page is selected by the user
 import React, { useState } from "react";
 //load all the components
-import Nav from "./Nav";
-import Footer from "./Footer";
-import About from "./pages/About";
-import Contact from "./pages/Contact";
-import Portfolio from "./pages/Portfolio";
-import Resume from "./pages/Resume";
-import Home from "./pages/Home";
+import Nav from "./Nav.js";
+import Footer from "./Footer.js";
+import About from "./pages/About.js";
+import Contact from "./pages/Contact.js";
+import Portfolio from "./pages/Portfolio.js";
+import Resume from "./pages/Resume.js";
+import Home from "./pages/Home.js";
 // load an array of projects
-import projects from "../projects";    ////////////    ADD JS TO THE END OF ALL PAGES FILES   ///////////
+import projects from "../projects.js";    ////////////    ADD JS TO THE END OF ALL PAGES FILES   ///////////
 
 export default function PortfolioContainer() {
     const [currentPage, setCurrentPage] = useState("Home");

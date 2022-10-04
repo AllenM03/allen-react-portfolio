@@ -1,5 +1,5 @@
 import React from "react";
-import Project from "../Project";
+import Project from "../Project.js";
 
 // Portfolio component requires an array of projects that it would then map and pass on to the Project component
 export default function Portfolio({ projects }) {

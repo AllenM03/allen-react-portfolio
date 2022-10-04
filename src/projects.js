@@ -27,7 +27,7 @@ const projects = [
         
         A few different technologies were used in creating this application such 
         as, HTML, CSS, and JavaScript powered by third-party API's such as 
-        Moment.js, Bootstrap, OpenWeather's GeoCoding and Ond Cal API's.`,
+        Moment.js, Bootstrap, OpenWeather's GeoCoding and One Call API's.`,
         imgSrc: img1,
     },
     {
