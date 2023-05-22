@@ -9,9 +9,9 @@ import Portfolio from "./pages/Portfolio.js";
 import Resume from "./pages/Resume.js";
 import Home from "./pages/Home.js";
 // load an array of projects
-import projects from "../projects.js";    ////////////    ADD JS TO THE END OF ALL PAGES FILES   ///////////
+import Project from "../Project.js";    ////////////    ADD JS TO THE END OF ALL PAGES FILES   ///////////
 
-export default function PortfolioContainer() {
+export default function portfolioContainer() {
     const [currentPage, setCurrentPage] = useState("Home");
     const renderPage = () => {
         // based on the page clicked, load the appropriate component

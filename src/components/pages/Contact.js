@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 // import the email validation checker
-import { validateEmail } from "../../utils/validateText";
+import { validateEmail } from "../../utils/ValidateText";
 
 export default function Contact() {
     //Checking if the values entered on all the fields as useState
